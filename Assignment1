@@ -1,0 +1,22 @@
+<html>
+    <body style="background-color:rgb(230, 221, 176);"></body>
+    <h1><center>assignment1</center></h1>
+    <h2 style="color:red">Restaurent page</h2>
+    <h3> Non veg menu</h3>
+    <li>Chiken biriyani</li>
+    <li>egg biriyani</li>
+    <li>Matun biriyani</li>
+    <h3>Veg Menu</h3>
+    <li>Veg biriyani</li>
+    <li>Pannir biriyani</li>
+    <li>pannir</li>
+    <h3>prizes</h3>
+    <h3>10% off = Chiken biriyani</h3>
+    <h3>20% off = egg biriyani</h3>
+    <h3>30% off = matun biriyani</h3>
+</body
+
+</html>
+
+
+    

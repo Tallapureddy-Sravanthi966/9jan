@@ -1,0 +1,10 @@
+<html>
+    <h1 align="middle">Assignment2</h1>
+    <h2>formating tags</h2>
+    <hr>
+    <p>From <b>1992</b> to <strong>1997</strong> Kalam was <i>scientific</i> adviser <del>to the</del> defense <em>minister,</em> and he later <mark>served</mark> as principal <ins>scientific</ins> adviser (1999–2001) to the <bdo>government</bdo> with the rank of cabinet minister. His prominent<snall> role </snall>in the country’s 1998 nuclear weapons tests <q>solidified</q> India as a nuclear power and established Kalam as a national hero, although the tests caused great concern in the international community. In 1998 Kalam put forward a countrywide plan called Technology Vision 2020, which he described as a road map for transforming India from a less-developed to a developed society in 20 years. The plan called for, among other measures, increasing agricultural productivity, emphasizing technology as a vehicle for economic growth, and widening access to health care and education.</p>
+    <abbr title="hyper text markup language">HTML</abbr>
+    <br><br>
+    2<sub>2</sub>=4<br><br>
+    3<sup>log</sup>=2
+</html>

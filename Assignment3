@@ -1,0 +1,90 @@
+<h1>Abbsolute path</h1>
+<h1>images</h1>
+<h1>links</h1>
+<a href="https://www.w3schools.com/tags/tag_tbody.asp">click the link</a><br><br>
+<img src="download.jpg.jpeg" width="60" height="60"><br>
+<h1>relative inside the file</h1>
+<img src="./images/puppy.jpg">
+<h1>relative outside the file</h1>
+<img src="../images/ntr/jr ntr.jpg" width="200" hight="200">
+<h1>Abbsolute path</h1>
+<img src="cute-puppy-298302.jpg" align="middle" width="200" height="200">
+<h2>1.What is front end?</h2>
+<p>A.A Front-End Developer is someone who creates websites and web applications.
+
+    The difference between Front-End and Back-End is that Front-End refers to how a web page looks, while back-end refers to how it works.
+    
+    You can think of Front-End as client-side and Back-End as server-side.
+    
+    The basic languages for Front-End Development are HTML, CSS, and JavaScript.</p>
+<h2>1.Difference between front end and back end?</h2>
+<p>A.Frontend and Backend are the two most popular terms used in web development. The front end is what users see and interact with and the backend is how everything works. Each side needs to communicate and operate effectively with the other as a single unit to improve the website’s functionality. </p>
+<h2>1.What is back end?</h2>
+<p>A.Generally, a website consists of two parts — the front end and the back end. The front end, also known as the client-side, is what you see in the browser. The back end, or server-side, is everything that happens “under the hood,” and its components aren’t immediately obvious.</p>
+<table border="6" rowspan="4" colspan="4">
+    <tr>
+        <th>Roll No</th>
+        <th>Class</th>
+        <th>Name</th>
+    </tr>
+    <tr>
+        <th>554</th>
+        <td>B.Tech</td>
+        <td>Sravs</td>
+    </tr>
+    <tr>
+        <th>511</th>
+        <td>B.Tech</td>
+        <td>Bhanu</td>
+    </tr>
+    <tr>
+        <th>520</th>
+        <td>B.Tech</td>
+        <td>Omni</td>
+    </tr>
+</table><br><br>
+<table border="4">
+    <tr>
+        <th>Roll No</th>
+        <th colspan="3">Subjects</th>
+        <th>Marks</th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <td>Maths</td>
+        <td>Science</td>
+        <td>Social</td>
+        <th>99</th>
+    </tr>
+    <tr>
+        <th>2</th>
+        <td>chemistry</td>
+        <td>Botony</td>
+        <td>Telugu</td>
+        <th>100</th>
+    </tr>
+    <tr>
+        <th>3</th>
+        <td>Grammer</td>
+        <td>GK</td>
+        <td>Hindi</td>
+        <th>100</th>
+    </tr>
+    <tr>
+        <th>4</th>
+        <td>Grammer</td>
+        <td>GK</td>
+        <td>Hindi</td>
+        <th>100</th>
+    </tr>
+   
+</table>
+<h2>image links</h2>
+<a href="Assignment1">Assignment1</a><br><br>
+<a href="Assigbment2">Assignment2</a><br><br>
+<a href="Assignment3">Assignment3</a>
+
+
+
+
+
